@@ -21,7 +21,7 @@ Some other long term, big picture ideas I hope to eventually engage with: What i
 Ultimately I’m interested in working at companies that are using technology to make real life better. Learning to code is the first step.
 
 ###Do I have a choice?
-I’ve now worked in two industries that have been irreparably altered by technology: publishing and music. In neither case was this a change fostered from within, but rather forced from the outside. And if you believe software is truly eating the world, few industries will escape a similar disruption. To me that means adopt, or become irrelevant. 
+I’ve now worked in two industries that have been irreparably altered by technology: publishing and music. In neither case was this a change fostered from within, but rather forced from the outside. And if you believe software is truly eating the world, few industries will escape a similar disruption. To me that means adapt, or become irrelevant. 
 
 ###Be the change (or something like that)
 At some point I just got sick of repeatedly reading articles about the tech talent shortage (especially in New York) as well as abysmal gender ratios. To paraphrase one of our recent [guest speakers](https://www.twitter.com/laurenvoswinkel), when you have a homogeneous tech work force, you have the same kinds of problems being addressed over and over again. Diversity in tech isn’t important merely because it’s politically correct or an ideal we should aim for, it’s important because it has real, serious implications for society. There’s no reason to resign yourself to unsatisfying work in a sector with increasingly few opportunities when there’s so much to be done elsewhere. And when you develop software, that elsewhere can be nearly *anywhere*. 
